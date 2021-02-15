@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @renan-almeidaa
+- 👋 Hi, I’m Renan
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on we
