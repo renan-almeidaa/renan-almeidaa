@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Renan
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on we
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning python
 - 📫 How to reach me: Instagram @renan_gs14
 
 <!---
