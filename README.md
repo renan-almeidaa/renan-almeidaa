@@ -4,7 +4,8 @@ class renan-almeidaa:
 
     def __init__(self):
         self.username = 'renan-almeidaa'
-        self.name = 'https://www.linkedin.com/in/renan--gs/'
+        self.name = 'Renan Almeida'
+        self.web = 'https://www.linkedin.com/in/renan--gs/'
         self.education = 'Ciência da computação - Universidade Estadual do Paraná (UNESPAR)'
         self.knowledges = {
             'code': ['Python', 'JavaScript', 'SQL', 'HTML', 'CSS', 'Java'],
