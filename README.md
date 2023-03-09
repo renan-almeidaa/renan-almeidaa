@@ -1,6 +1,6 @@
 # Profile
 ```python
-class renan-almeidaa:
+class renanAlmeidaa:
 
     def __init__(self):
         self.username = 'renan-almeidaa'
@@ -24,7 +24,7 @@ class renan-almeidaa:
         print(f"You can find more about me in {self.web}")
 
 if __name__ == '__main__':
-    me = renan-almeidaa()
+    me = renanAlmeidaa()
     me.greetings()
 ```
 
