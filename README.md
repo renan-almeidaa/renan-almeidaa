@@ -11,7 +11,7 @@ class renan-almeidaa:
             'code': ['Python', 'JavaScript', 'SQL', 'HTML', 'CSS', 'Java'],
             'database': ['Oracle SQL Developer', 'Microsoft SQL Server'],
             'libs': ['pandas', 'requests', 'BeautifulSoup', 'numpy', 'matplotlib', 'seaborn', 'sklearn'],
-            'tools': ['Jupyter', 'VSCode'],
+            'tools': ['Jupyter', 'VSCode', 'Eclipse'],
             'others': ['Data Analysis', 'Web development', 'Machine learning']
         }
 
