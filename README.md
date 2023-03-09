@@ -1,11 +1,36 @@
-- 👋 Hi, I’m Renan
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning python
-- 📫 How to reach me: Instagram @renan_gs14
+class renan-almeidaa:
 
-<!---
-renan-almeidaa/renan-almeidaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    def __init__(self):
+        self.username = 'renan-almeidaa'
+        self.name = 'https://www.linkedin.com/in/renan--gs/'
+        self.education = 'Ciência da computação - Universidade Estadual do Paraná (UNESPAR)'
+        self.knowledges = {
+            'code': ['Python', 'JavaScript', 'SQL', 'HTML', 'CSS', 'Java'],
+            'database': ['Oracle SQL Developer', 'Microsoft SQL Server'],
+            'libs': ['pandas', 'requests', 'BeautifulSoup', 'numpy', 'matplotlib', 'seaborn', 'sklearn'],
+            'tools': ['Jupyter', 'VSCode'],
+            'others': ['Data Analysis', 'Web development', 'Machine learning']
+        }
 
-(https://github-readme-stats.vercel.app/api?username=renan-almeidaa)](https://github.com/renan-almeidaa/github-readme-stats)
+    def __str__(self):
+        return self.name
+
+    def greetings(self):
+        print(f"Hi there, my name is {self.name}")
+        print(f"I'm graduated in {self.education.split(' - ')[0]} in {self.education.split(' - ')[1]}")
+        print(f"You can find more about me in {self.web}")
+
+if __name__ == '__main__':
+    me = renan-almeidaa()
+    me.greetings()
+
+
+
+
+<div align='center'>
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=renan-almeidaa&show_icons=true&theme=buefy">--->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-almeidaa&count_private=true&layout=compact&theme=buefy"> 
+</div>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{renan-almeidaa}/count.svg" alt="ViniViniAntunes :: Visitor's Count" /></p>
