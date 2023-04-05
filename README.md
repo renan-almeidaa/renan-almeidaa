@@ -12,7 +12,7 @@ class RenanAlmeida:
             'database': ['Oracle SQL Developer', 'Microsoft SQL Server'],
             'libs': ['pandas', 'requests', 'BeautifulSoup', 'numpy', 'matplotlib', 'seaborn', 'sklearn'],
             'tools': ['Jupyter', 'VSCode', 'Eclipse'],
-            'others': ['Data Analysis', 'Web development', 'Machine learning']
+            'others': ['Data Science', 'Web Scraping', 'Web development', 'Machine learning']
         }
 
     def __str__(self):
