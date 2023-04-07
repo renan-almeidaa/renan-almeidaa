@@ -29,8 +29,8 @@ if __name__ == '__main__':
 ```
 
 <div align="center">
-  <a href="https://github.com/NetoBarbosaX">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NetoBarbosaX&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/renan-almeidaa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renan-almeidaaX&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
