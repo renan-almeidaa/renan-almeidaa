@@ -28,12 +28,21 @@ if __name__ == '__main__':
     me.greetings()
 ```
 
-
+<div align="center">
+  <a href="https://github.com/NetoBarbosaX">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NetoBarbosaX&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div align='center'>
   <!--<img src="https://github-readme-stats.vercel.app/api?username=renan-almeidaa&show_icons=true&theme=buefy">--->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-almeidaa&count_private=true&layout=compact&theme=buefy"> 
 </div>
 
+<br></br>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{renan-almeidaa}/count.svg" alt="ViniViniAntunes :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{renan-almeidaa}/count.svg" alt="renan-almeidaa :: Visitor's Count" /></p>
+
