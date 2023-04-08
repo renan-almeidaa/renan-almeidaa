@@ -9,7 +9,7 @@ class RenanAlmeida:
         self.education = 'Ciência da computação - Universidade Estadual do Paraná (UNESPAR)'
         self.knowledges = {
             'code': ['Python', 'JavaScript', 'SQL', 'HTML', 'CSS', 'Java'],
-            'database': ['Oracle SQL Developer', 'Microsoft SQL Server'],
+            'database': ['Oracle SQL Developer', 'Microsoft SQL Server', 'MySql', 'sqlite3'],
             'libs': ['pandas', 'requests', 'BeautifulSoup', 'numpy', 'matplotlib', 'seaborn', 'sklearn'],
             'tools': ['Jupyter', 'VSCode', 'Eclipse'],
             'others': ['Data Science', 'Web Scraping', 'Web development', 'Machine learning']
