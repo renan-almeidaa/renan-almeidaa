@@ -6,7 +6,7 @@ class RenanAlmeida:
         self.username = 'renan-almeidaa'
         self.name = 'Renan Almeida'
         self.web = ['https://www.linkedin.com/in/renan--gs/', 'https://medium.com/@renan_gs']
-        self.education = 'Ciência da computação - Universidade Estadual do Paraná (UNESPAR)'
+        self.education = 'Computer Scientist- State University of Parana'
         self.knowledges = {
             'code': ['Python', 'JavaScript', 'SQL', 'HTML', 'CSS', 'Java'],
             'database': ['Oracle SQL Developer', 'Microsoft SQL Server', 'MySql', 'sqlite3'],
